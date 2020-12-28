@@ -16,3 +16,4 @@
 ![](https://github.com/duanshengliu/End-to-end-for-chinese-plate-recognition/blob/master/test_pic/5.png)
 ![](https://github.com/duanshengliu/End-to-end-for-chinese-plate-recognition/blob/master/test_pic/6.png)
 ![](https://github.com/duanshengliu/End-to-end-for-chinese-plate-recognition/blob/master/test_pic/7.png)
+![](https://i0.hdslb.com/bfs/album/e10bfd552f163885892f45d2613ef66d807bb6da.gif)
